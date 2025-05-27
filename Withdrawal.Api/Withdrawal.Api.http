@@ -1,6 +1,0 @@
-@Withdrawal.Api_HostAddress = http://localhost:5091
-
-GET {{Withdrawal.Api_HostAddress}}/endpoint/
-Accept: application/json
-
-###
